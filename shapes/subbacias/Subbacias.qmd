@@ -1,0 +1,43 @@
+<!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
+<qgis version="3.22.16-Bia?owie?a">
+  <identifier>CONJUNTURA_RHB.SNIRH_DNAEE_SUBBACIA</identifier>
+  <parentidentifier></parentidentifier>
+  <language>POR</language>
+  <type>dataset</type>
+  <title>CONJUNTURA_RHB.SNIRH_DNAEE_SUBBACIA</title>
+  <abstract></abstract>
+  <contact>
+    <name></name>
+    <organization></organization>
+    <position></position>
+    <voice></voice>
+    <fax></fax>
+    <email></email>
+    <role></role>
+  </contact>
+  <links/>
+  <fees></fees>
+  <encoding></encoding>
+  <crs>
+    <spatialrefsys>
+      <wkt>GEOGCRS["SAD69",DATUM["South American Datum 1969",ELLIPSOID["GRS 1967 Modified",6378160,298.25,LENGTHUNIT["metre",1]]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],CS[ellipsoidal,2],AXIS["geodetic latitude (Lat)",north,ORDER[1],ANGLEUNIT["degree",0.0174532925199433]],AXIS["geodetic longitude (Lon)",east,ORDER[2],ANGLEUNIT["degree",0.0174532925199433]],USAGE[SCOPE["Geodesy."],AREA["Brazil - onshore and offshore. In rest of South America - onshore north of approximately 45°S and Tierra del Fuego."],BBOX[-55.96,-91.72,12.52,-25.28]],ID["EPSG",4618]]</wkt>
+      <proj4>+proj=longlat +ellps=aust_SA +no_defs</proj4>
+      <srsid>3471</srsid>
+      <srid>4618</srid>
+      <authid>EPSG:4618</authid>
+      <description>SAD69</description>
+      <projectionacronym>longlat</projectionacronym>
+      <ellipsoidacronym>EPSG:7050</ellipsoidacronym>
+      <geographicflag>true</geographicflag>
+    </spatialrefsys>
+  </crs>
+  <extent>
+    <spatial maxy="0" minz="0" dimensions="2" crs="EPSG:4618" minx="0" miny="0" maxx="0" maxz="0"/>
+    <temporal>
+      <period>
+        <start></start>
+        <end></end>
+      </period>
+    </temporal>
+  </extent>
+</qgis>
