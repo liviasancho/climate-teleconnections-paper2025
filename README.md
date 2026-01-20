@@ -1,7 +1,7 @@
 # climate-teleconnections-paper2025
 Repository for the Teleconnections paper from Cataldi et al. (2025)
 
-This repository contains data processing and analysis scripts used in a research project funded by CNPq, focused on identifying ocean–atmosphere teleconnections associated with extreme drought and precipitation events.
+This repository contains data processing and analysis scripts used in a research project funded by CNPq, focused on creating georeferenced maps that classify the areas of the country most vulnerable to extreme weather events, also identifying the type of event associated with each region and the type of vulnerability (social, environmental, or socio-environmental).
 
 ## Scientific context
 The project analyzes existing and newly developed climate indices to assess their influence on climate extremes, using observational and reanalysis datasets.
